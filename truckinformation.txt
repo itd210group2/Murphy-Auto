@@ -1,0 +1,7 @@
+Truck: New 2018 Ford F-150 XL
+Price: $49,305
+Mpg: 16-23
+Weight: 4330 Lbs
+Color: Silver
+Transmission: 10-Speed Automatic
+Features: Backup Camera, Brake Assist, Bluetooth, Alloy Wheels
